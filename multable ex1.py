@@ -9,6 +9,7 @@ else:
         print("\t{}*{}={}".format(n,i,n*i))
     else:
         print("="*60)
+        print("="*60)
 
 
 
