@@ -2,9 +2,9 @@ pipeline {
     agent any
 
     stages {
-        stage('Hello') {
+        stage('python') {
             steps {
-                echo 'Hello World'
+                echo 'python project done'
                 bat 'python main/mc.py'
             }
         }
