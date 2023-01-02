@@ -11,6 +11,7 @@ else:
         print("="*60)
         print("="*60)
         print("="*50)
+        print("ses")
         bat 'python multable ex1.py '
 
 
